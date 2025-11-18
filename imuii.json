@@ -1,0 +1,11 @@
+{
+  "name": "testingmantappull",
+  "framework": "react",
+  "language": "javascript",
+  "buildCommand": "npm install && npm run build",
+  "startCommand": "npm start",
+  "domain": "testingmantappull",
+  "email": "d.raihan2004@gmail.com",
+  "secretKey": "imuii_4ffa3da4f5ece91bbfec4532ebb0d6af12ed481f3453bbc1d10f4ebaa93cfaba",
+  "repoUrl": "https://github.com/Lab-Sisjarkom-IMUII/testingmantappull-0836c0cf.git"
+}
